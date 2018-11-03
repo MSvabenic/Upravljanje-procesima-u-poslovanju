@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = true
+	logallrefupdates = false
+[remote "Upravljanje_procesima_u_poslovanju"]
+	url = https://github.com/MSvabenic/Upravljanje-procesima-u-poslovanju.git
+	fetch = +refs/heads/*:refs/remotes/Upravljanje_procesima_u_poslovanju/*
