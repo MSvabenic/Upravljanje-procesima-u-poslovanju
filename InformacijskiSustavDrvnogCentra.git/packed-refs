@@ -1,4 +1,6 @@
 # pack-refs with: peeled
-58ad09fad86b8d2087e99fe24c830b38ffab9af2 refs/heads/master
+b4930cc126f40fc7a82e66e4b4d60aa9fb2468ff refs/heads/Labos_1
+0d6d4139c5259a5b2ae0f18eadb83feb159aea0f refs/heads/Labos_3
+b4930cc126f40fc7a82e66e4b4d60aa9fb2468ff refs/heads/master
 2ec45bd043ae01c2f435dee37217e7efc52ddfa8 refs/remotes/UpravljanjeProcesimaUPoslovanju/master
 b048907d4efbbce3f61fa5439bf16dfb6b2b2621 refs/remotes/Upravljanje_procesima_u_poslovanju/master
