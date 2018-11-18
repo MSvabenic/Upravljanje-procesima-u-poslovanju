@@ -1,7 +1,7 @@
 # pack-refs with: peeled
 b4930cc126f40fc7a82e66e4b4d60aa9fb2468ff refs/heads/Labos_1
-87e017de4a1e9d29859b592cf36c1e1c5e3217d1 refs/heads/Labos_3
-37e1ef98c6598a2517a9fccb7708dc04c64b35c4 refs/heads/Labos_4
+d9a6e1d0afa3882922a224bfdf0440da95db1ef6 refs/heads/Labos_3
+471114eefd855123ede51381be2ae5d7f2631063 refs/heads/Labos_4
 b4930cc126f40fc7a82e66e4b4d60aa9fb2468ff refs/heads/master
 2ec45bd043ae01c2f435dee37217e7efc52ddfa8 refs/remotes/UpravljanjeProcesimaUPoslovanju/master
 b048907d4efbbce3f61fa5439bf16dfb6b2b2621 refs/remotes/Upravljanje_procesima_u_poslovanju/master
