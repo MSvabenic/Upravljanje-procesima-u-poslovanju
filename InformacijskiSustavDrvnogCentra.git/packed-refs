@@ -1,12 +1,5 @@
-# pack-refs with: peeled
-b4930cc126f40fc7a82e66e4b4d60aa9fb2468ff refs/heads/Labos_1
-d9a6e1d0afa3882922a224bfdf0440da95db1ef6 refs/heads/Labos_3
-670ae47fca82f2d9152df8cd76aeeb4312d9c29a refs/heads/Labos_4
-546e49948e1da27e8cc5a4cf4ef215f459092fc8 refs/heads/Labos_4_Za_Labos_5
-354a33ad44278c4a8e326b4075f9aef91f43583f refs/heads/Labos_5
-f7143605ab83eb120c1929ad12e9848e653266d4 refs/heads/Labos_6
-ec23952b8347c9f63b991800320ec71b9945a704 refs/heads/Labos_7
-7fdc6e97a84ec2405a31c31d24971354376f9c10 refs/heads/Labos_7_
+# pack-refs with: peeled fully-peeled sorted 
+1c5c84a6e4781308186a188405e35cc2df27d475 refs/heads/Labos_7_
 b4930cc126f40fc7a82e66e4b4d60aa9fb2468ff refs/heads/master
 2ec45bd043ae01c2f435dee37217e7efc52ddfa8 refs/remotes/UpravljanjeProcesimaUPoslovanju/master
 b048907d4efbbce3f61fa5439bf16dfb6b2b2621 refs/remotes/Upravljanje_procesima_u_poslovanju/master
